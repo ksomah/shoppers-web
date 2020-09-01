@@ -1,0 +1,12 @@
+﻿@model IEnumerable<shoppersdata.Category>
+
+<ul class="navbar-nav flex-grow-1">
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index" asp-route-id="0">Home</a>
+    </li>
+    @foreach (var pc in Model.ToList())
+    {
+        <li><a class="nav-link text-dark" asp-controller="Home" asp-action="Index" asp-route-id="@pc.Id">@pc.CategoryName</a></li>
+    }
+
+</ul>

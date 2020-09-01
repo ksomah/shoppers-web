@@ -11,8 +11,6 @@ C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\sh
 C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\bin\Debug\netcoreapp3.1\shoppersweb.Views.pdb
 C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\obj\Debug\netcoreapp3.1\shoppersweb.AssemblyInfoInputs.cache
 C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\obj\Debug\netcoreapp3.1\shoppersweb.AssemblyInfo.cs
-C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\obj\Debug\netcoreapp3.1\shoppersweb.csproj.CoreCompileInputs.cache
-C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\obj\Debug\netcoreapp3.1\shoppersweb.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\obj\Debug\netcoreapp3.1\shoppersweb.RazorAssemblyInfo.cache
 C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\obj\Debug\netcoreapp3.1\shoppersweb.RazorAssemblyInfo.cs
 C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\obj\Debug\netcoreapp3.1\shoppersweb.TagHelpers.input.cache
@@ -34,3 +32,10 @@ C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\sh
 C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\obj\Debug\netcoreapp3.1\shoppersweb.pdb
 C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\obj\Debug\netcoreapp3.1\shoppersweb.genruntimeconfig.cache
 C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\obj\Debug\netcoreapp3.1\shoppersweb.csproj.CopyComplete
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\bin\Debug\netcoreapp3.1\shoppersdata.dll
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\bin\Debug\netcoreapp3.1\shoppersdata.pdb
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\obj\Debug\netcoreapp3.1\shoppersweb.csprojAssemblyReference.cache
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\obj\Debug\netcoreapp3.1\shoppersweb.csproj.CoreCompileInputs.cache
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\obj\Debug\netcoreapp3.1\shoppersweb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersweb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs

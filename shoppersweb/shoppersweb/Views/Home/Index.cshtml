@@ -1,8 +1,40 @@
-﻿@{
+﻿@model IEnumerable<shoppersdata.Product>
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Welcome to Shoppers</h1>
+    <p>The best shopping experience on planet earth</p>
+    <br /><br />
 </div>
+
+<section class="featured-product">
+    <div class="container">
+        <div class="row">
+
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4 col-sm-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <img src="@item.ImageUrl" width="300" height="288" alt="Product">
+
+                        </div>
+                        <div class="card-footer">
+                            <div>
+                                <span style="color:red">@string.Format("{0:C}", item.UnitPrice)</span>
+                                <span><s>@string.Format("{0:C}", item.OrginalPrice)</s></span>
+                            </div>
+                            <div class="clear"></div>
+                            <h5>@item.ProductName</h5>
+                            <a class="btn btn-primary dart-btn-xs" asp-controller="Cart" asp-action="Index" asp-route-id="@item.Id">Add to Cart</a>
+                        </div>
+
+                    </div>
+                </div>
+            }
+            <br /><br /><br />
+        </div>
+    </div>
+</section>

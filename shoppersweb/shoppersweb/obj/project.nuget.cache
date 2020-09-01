@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "CjDervRUD2eHZSb/Y4Ihf9CJ6ljZK9YRRkFx/xfGZKcDkWQyUW2vvrZERmwNHRnKho81groPD8XBzDW/beQQAg==",
+  "dgSpecHash": "FyLN287qZcG8ztzGJN7dYSLPMiHm9uP+C0/taAgv1/6rFKA2D6Z+7DlftKFRLxhYCgxFyYCMS1+Qx+5C2kvWkw==",
   "success": true,
   "projectFilePath": "C:\\Users\\klsomah\\Documents\\Workshops\\MWCU\\ShopperWeb\\shoppers-web\\shoppersweb\\shoppersweb\\shoppersweb.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\klsomah\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\klsomah\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

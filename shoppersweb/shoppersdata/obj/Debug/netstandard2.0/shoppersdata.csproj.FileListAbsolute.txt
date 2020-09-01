@@ -1,0 +1,8 @@
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersdata\bin\Debug\netstandard2.0\shoppersdata.deps.json
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersdata\bin\Debug\netstandard2.0\shoppersdata.dll
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersdata\bin\Debug\netstandard2.0\shoppersdata.pdb
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersdata\obj\Debug\netstandard2.0\shoppersdata.AssemblyInfoInputs.cache
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersdata\obj\Debug\netstandard2.0\shoppersdata.AssemblyInfo.cs
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersdata\obj\Debug\netstandard2.0\shoppersdata.csproj.CoreCompileInputs.cache
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersdata\obj\Debug\netstandard2.0\shoppersdata.dll
+C:\Users\klsomah\Documents\Workshops\MWCU\ShopperWeb\shoppers-web\shoppersweb\shoppersdata\obj\Debug\netstandard2.0\shoppersdata.pdb

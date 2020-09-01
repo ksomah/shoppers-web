@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FkDhRAIoaqMZpyyUr+cThUftvXYXyozyN3Rsf1hXjJGGHPUV3xxkfZ1OpvZkvWy0tfWUObQvhEzEDImxpmGlMg==",
+  "dgSpecHash": "II25TowFck5ASzn7THwLg7naVSlaXo5LMunjrGtEweXPDPFl+CIxQ+5j8GZoJFY3KyWlkzxQsBD41nn45OuRcQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\klsomah\\Documents\\Workshops\\MWCU\\ShopperWeb\\shoppers-web\\shoppersweb\\shoppersdata\\shoppersdata.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\klsomah\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\klsomah\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\klsomah\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\klsomah\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
