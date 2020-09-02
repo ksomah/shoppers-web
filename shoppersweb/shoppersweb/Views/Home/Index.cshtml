@@ -1,4 +1,6 @@
 ﻿@model IEnumerable<shoppersdata.Product>
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
 @{
     ViewData["Title"] = "Home Page";
 }
@@ -6,7 +8,9 @@
 <div class="text-center">
     <h1 class="display-4">Welcome to Shoppers</h1>
     <p>The best shopping experience on planet earth</p>
+    @Configuration["EnvironmentName"]
     <br /><br />
+
 </div>
 
 <section class="featured-product">
